@@ -1,0 +1,75 @@
+.env
+
+# OS generated files #
+######################
+.DS_Store
+__MACOSX
+# Jupiter Notebook #
+.pytest_cache
+__pycache__
+*checkpoint.ipynb
+*.ipynb_checkpoints
+
+# inteliJ #
+.idea
+*.gz
+*PKG-INFO
+*.egg-info
+*.csv
+05-ML/**/*.txt
+06-Deep-Learning/**/*.txt
+*.zip
+mlruns
+*.sqlite
+# IDE #
+*.vscode
+
+# Specific Challenges
+06-Deep-Learning/03-Convolutional-Neural-Networks/04-Transfer-Learning/flowers/
+
+# Challengify - test challengification files
+*_challengify*
+# Ignore system and editor-generated files
+.DS_Store
+.config/
+.docker/
+.gitconfig
+.gsutil/
+.ipython/
+.jupyter/
+.lesshst
+.oh-my-zsh/
+.pdbhistory
+.prefect/
+.pyenv/
+.python_history
+.rspec
+.ssh/
+.streamlit/
+.viminfo
+.vscode/
+.wget-hsts
+
+# Ignore directories and files with specific names
+Applications/
+Creative Cloud Files FELIPE.TOFANI@GMAIL.COM*/
+Creative Cloud Files marcela.fae@gmail.com*/
+Creative Cloud Files/
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+code.code-workspace
+*Marcela_Fae_LeWagon_Data.pdf
+marcelafae/
+ml_map.png
+custom/
+djangogirls/
+download.png
+nltk_data/
+seaborn-data/
+tensorflow_datasets/
